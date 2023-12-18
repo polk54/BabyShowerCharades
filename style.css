@@ -17,7 +17,7 @@ h1{
 #bar{
   width: 70px;
   height: 5px;
-  background: #4a8ce29;
+  background: #4A8CE2;
 }
 
 @media only screen and (max-width: 600px) {
@@ -32,7 +32,7 @@ p{
 }
 
 #wordDisplay{
-  color: #4a8ce29;
+  color: black;
   font-size: 30px;
   padding: 10px 20px 40px 0px;
 }
@@ -62,7 +62,7 @@ button:focus {
 
 /* unvisited link */
 a:link {
-    color: #4a8ce29;
+    color: #4A8CE2;
 }
 
 /* visited link */
