@@ -3,6 +3,6 @@ function newWord(){
   document.getElementById("wordDisplay").innerHTML = words[randomNumber];
 }
 
-var words = ["poopy diaper",
-"a&m",
-"a&p"]
+var words = ["Diaper Change", "Peekaboo", "Pacifier", "Crawl", "Baby Powder", "Teething", 
+             "Rocking Chair", "Tummy Time", "Baby Steps", "Rubber Ducky", "Spit-up", 
+             "Potty Training", "Burp", "Giggle", "Diaper Blowout", "Potty Training"]
